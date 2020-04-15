@@ -33,13 +33,13 @@ public class Entity {
         this.cityId = cityId;
         this.alias = alias;
     }
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
+//    public String getId() {
+//        return id;
+//    }
+//
+//    public void setId(String id) {
+//        this.id = id;
+//    }
 
     public Integer getCityId() {
         return cityId;
